@@ -1,10 +1,10 @@
 <#
 
 .SYNOPSIS
-This is a simple Powershell script to discover Microsoft Windows based machines within an IP address range and generate a simple yet useful serverlist.
+This is a simple Powershell script to discover Microsoft Windows based domain joined machines within an IP address range and generate a simple yet useful serverlist.
 
 .DESCRIPTION
-This is a simple Powershell script to discover Microsoft Windows based machines within an IP address range and generate a simple yet useful serverlist.
+This is a simple Powershell script to discover Microsoft Windows based domain joined machines within an IP address range and generate a simple yet useful serverlist.
 
 Created by Tamas Gocza
 Email: Tamas.Gocza@hu.ibm.com
